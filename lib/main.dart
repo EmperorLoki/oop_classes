@@ -11,7 +11,7 @@ void main() {
 
   Cardano ada = Cardano('Mainnet', 45.0);
   ada.displayInfo();
-
-Chainlink link = Chainlink('Ethereum Mainnet', 15.25);
+  
+  Chainlink link = Chainlink('Ethereum Mainnet', 15.25);
   link.displayInfo();
 }
